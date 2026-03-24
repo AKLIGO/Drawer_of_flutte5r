@@ -1,8 +1,15 @@
+// import 'package:flutter/material.dart';
+// import 'package:my_demo/UI/widgets/drawer_widget.dart';
+// import 'package:my_demo/UI/ui_pages/meteo.dart';
+// import 'package:my_demo/UI/ui_pages/galery.dart';
+// import 'package:my_demo/UI/UI_pages_statefull/couter.page.dart';
+
 import 'package:flutter/material.dart';
 import 'package:my_demo/UI/widgets/drawer_widget.dart';
 import 'package:my_demo/UI/ui_pages/meteo.dart';
 import 'package:my_demo/UI/ui_pages/galery.dart';
 import 'package:my_demo/UI/UI_pages_statefull/couter.page.dart';
+
 void main(){
   runApp(MyApp());
 }
